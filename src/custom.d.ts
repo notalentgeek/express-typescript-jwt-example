@@ -1,4 +1,4 @@
-import { User } from './models/user.model'; // Import User type if you have one
+import { User } from './models/user.model';
 
 declare global {
   namespace Express {

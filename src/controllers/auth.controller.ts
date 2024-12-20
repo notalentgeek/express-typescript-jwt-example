@@ -1,4 +1,3 @@
-// src/controllers/auth.controller.ts
 import { Request, Response } from 'express';
 import jwt from 'jsonwebtoken';
 import config from '../configs/dotenv.config';
